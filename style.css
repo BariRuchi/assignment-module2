@@ -1,8 +1,10 @@
 .row{
-	margin-bottom: 15px;;
-
+	margin-bottom: 15px;
+	padding: 25px;
+		
 }
 .row > div {
-	border:2px solid red;
+	border:20px solid white;
 	background-color: gray;
+	padding: 15px;
 }
